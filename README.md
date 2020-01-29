@@ -6,7 +6,7 @@ A mobile/desktop game using plain vanilla JavaScript.
 Play Now
 ---
 <a href="http://mahmoudahmedd.github.io/paddle-ball">http://mahmoudahmedd.github.io/paddle-ball</a>
-![](screenshot.png)
+![](_screenshot.png)
 
 
 License
