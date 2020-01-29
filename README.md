@@ -5,7 +5,10 @@ A mobile/desktop game using plain vanilla JavaScript.
 
 Play Now
 ---
+<center>
 <a href="http://mahmoudahmedd.github.io/paddle-ball">http://mahmoudahmedd.github.io/paddle-ball</a>
+</center>
+
 ![](_screenshot.png)
 
 
