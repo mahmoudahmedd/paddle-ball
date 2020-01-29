@@ -1,7 +1,6 @@
 # Paddle Ball
----
 A mobile/desktop game using plain vanilla JavaScript.
----
+
 
 
 Play Now
